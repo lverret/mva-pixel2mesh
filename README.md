@@ -21,6 +21,11 @@ tar -xzf ShapeNetTrain.tar
 
 The split between train and test for airplanes can be found in ```train_list.txt``` and ```test_list.txt```.
 
+## Model
+
+A trained model can be dowloaded [here](
+https://drive.google.com/file/d/1-_LgiZNOSZRdj2pZAsqTXxkOU9ZAW3lH/view?usp=sharing).
+
 ## Scripts
 
 ### Training
